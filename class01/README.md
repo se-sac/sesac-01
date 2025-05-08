@@ -55,9 +55,9 @@
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 17 YoonSangHoon (topsanghoon) | n/a | - | - | - | - | - | mokiya |
+| 17 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 18 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 19 YoonSangHoon (topsanghoon) | n/a | - | - | - | - | - | mokiya |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 21 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 22 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
