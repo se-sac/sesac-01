@@ -34,7 +34,7 @@
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Final | Reviewer |
 |-------------------------------|---------|------|------|------|-------|----------|
 | 01 NaSungSim (simeeeeee) | n/a | - | - | - | - | litcoder |
-| 02 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 02 KimDaehun (KimDeahun0824) | n/a | - | - | - | - | litcoder |
 | 03 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 04 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
