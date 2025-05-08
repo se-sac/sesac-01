@@ -56,5 +56,5 @@
 | 21 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 22 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 24 SungSebin (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 24 SungSebin (SeBin7) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 25 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
