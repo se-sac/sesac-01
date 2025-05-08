@@ -50,7 +50,7 @@
 | 09 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 10 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 12 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 12 LeeKyeongJin (abcde) | n/a | - | - | - | - | - | max5982 |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 14 LeeKeonHee (leekeonhee0928) | n/a | - | - | - | - | - | max5982 |
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
@@ -72,7 +72,6 @@
 | 31 LeeTaeSang (LTS) | n/a | - | - | - | - | - | mokiya |
 | 32 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 33 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-
 ### Mini Projects
 
 * Team x:
