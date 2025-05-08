@@ -62,7 +62,7 @@
 | 21 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 22 KimJiHyun (22-Kim-Jihyun) | n/a | - | - | - | - | - | mokiya |
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 24 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 24 HwangJaeSic (szjsk) | n/a | - | - | - | - | - | mokiya |
 | 25 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 26 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 27 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
