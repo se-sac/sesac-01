@@ -60,7 +60,7 @@
 | 25 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 26 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 27 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 28 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 28 ChoiHyeonWon (CHW) | n/a | - | - | - | - | - | mokiya |
 | 29 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 30 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 31 LeeTaeSang (LTS) | n/a | - | - | - | - | - | mokiya |
