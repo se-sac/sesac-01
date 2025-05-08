@@ -48,7 +48,7 @@
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 14 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 16 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 16 KimJooWon (joowining) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 17 LeeJiHye (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 18 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 19 YoonSangHoon (topsanghoon) | n/a | - | - | - | - | jerry-jaeseong-lee |
