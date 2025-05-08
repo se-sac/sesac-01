@@ -64,7 +64,7 @@
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 24 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 25 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-
+| 34 SonHyunUk (HyunUkSon) | n/a | O | O | O | - | - | J-WBaek |
 ### Mini Projects
 
 * Team x:
