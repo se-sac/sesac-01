@@ -39,31 +39,39 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | HW#4 | HW#5 | Reviewer |
 |-------------------------------|---------|------|------|------|------|------|----------|
-| 01 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 02 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 01 NaSungSim (simeeeeee) | n/a | - | - | - | - | - | max5982 |
+| 02 KimDaehun (Kimdeahun0824) | n/a | - | - | - | - | - | max5982 |
 | 03 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 04 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 05 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 05 SungSebin (SeBin7) | n/a | - | - | - | - | - | max5982 |
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 07 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 09 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 10 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 10 HwangUng (abcde) | n/a | - | - | - | - | - | max5982 |
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 14 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 14 LeeKeonHee (leekeonhee0928) | n/a | - | - | - | - | - | max5982 |
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 16 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 17 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 16 KimJoowon (joowining) | n/a | - | - | - | - | - | mokiya |
+| 17 LeeJiHye (abcde) | n/a | - | - | - | - | - | mokiya |
 | 18 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 19 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 19 YoonSangHoon (topsanghoon) | n/a | - | - | - | - | - | mokiya |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 21 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 22 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 22 KimJiHyun (22-Kim-Jihyun) | n/a | - | - | - | - | - | mokiya |
 | 23 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 24 SungSebin (SeBin7) | n/a | - | - | - | - | - | mokiya |
+| 24 HwangJaeSic (szjsk) | n/a | - | - | - | - | - | mokiya |
 | 25 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 26 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 27 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 28 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 29 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 30 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 31 LeeTaeSang (LTS) | n/a | - | - | - | - | - | mokiya |
+| 32 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 33 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 
 ### Mini Projects
 
