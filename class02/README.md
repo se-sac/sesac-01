@@ -42,7 +42,7 @@
 | 07 KimSeongHyun (mukim-7) | n/a | - | - | - | - | litcoder |
 | 08 KimYeJin (KYJ28) | n/a | - | - | - | - | litcoder |
 | 09 ShinJiHye (shinjh01) | n/a | - | - | - | - | litcoder |
-| 10 HwangUng (abcde) | n/a | - | - | - | - | litcoder |
+| 10 HwangUng (hw652) | n/a | - | - | - | - | litcoder |
 | 11 KimTaeYoon (ty636336) | n/a | - | - | - | - | litcoder |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 13 SungSebin (Sebin7) | n/a | - | - | - | - | litcoder |
