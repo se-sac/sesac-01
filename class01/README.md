@@ -51,7 +51,7 @@
 | 10 HwangUng (abcde) | n/a | - | - | - | - | - | max5982 |
 | 11 KimTaeYoon (ty636336) | n/a | - | - | - | - | - | max5982 |
 | 12 LeeKyeongJin (kyeongjin3) | n/a | - | - | - | - | - | max5982 |
-| 13 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 13 SungSebin (Sebin7) | n/a | - | - | - | - | - | max5982 |
 | 14 LeeKeonHee (leekeonhee0928) | n/a | - | - | - | - | - | max5982 |
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 16 KimJoowon (joowining) | n/a | - | - | - | - | - | mokiya |

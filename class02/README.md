@@ -45,7 +45,7 @@
 | 10 HwangUng (hw652) | n/a | - | - | - | - | litcoder |
 | 11 KimTaeYoon (ty636336) | n/a | - | - | - | - | litcoder |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 13 SungSebin (Sebin7) | n/a | - | - | - | - | litcoder |
 | 14 LeeKeonHee (leekeonhee0928) | n/a | - | - | - | - | litcoder |
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 16 KimJooWon (joowining) | n/a | - | - | - | - | jerry-jaeseong-lee |
