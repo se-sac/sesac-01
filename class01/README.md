@@ -47,10 +47,8 @@
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 07 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-<<<<<<< HEAD
 | 09 ShinJiHye (shinjh01) | n/a | - | - | - | - | - | max5982 |
 | 10 HwangUng (abcde) | n/a | - | - | - | - | - | max5982 |
->>>>>>> main
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |

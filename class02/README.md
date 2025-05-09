@@ -41,10 +41,8 @@
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 07 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-<<<<<<< HEAD
 | 09 ShinJiHye (shinjh01) | n/a | - | - | - | - | litcoder |
 | 10 HwangUng (abcde) | n/a | - | - | - | - | litcoder |
->>>>>>> main
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
