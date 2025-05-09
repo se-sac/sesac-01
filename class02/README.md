@@ -61,7 +61,7 @@
 | 26 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 27 RimHeeYeon (abcde) | n/a | - | - | - | - | - | mokiya |
 | 28 ChoiHyeonWon  (CHW) | n/a | - | - | - | - | - | mokiya |
-| 29 KimMinSung (abcde) | n/a | - | - | - | - | - | mokiya |
+| 29 KimMinSung (Kimminsung-00) | n/a | - | - | - | - | - | mokiya |
 | 30 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 31 LeeTaeSang (LTS) | n/a | - | - | - | - | - | mokiya |
 | 32 KimMinKi (minki3131) | n/a | - | - | - | - | - | mokiya |
