@@ -47,7 +47,7 @@
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 07 KimSeongHyun (mukim-7) | n/a | - | - | - | - | - | max5982 |
 | 08 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 09 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 09 ShinJiHye (shinjh01) | n/a | - | - | - | - | - | max5982 |
 | 10 HwangUng (abcde) | n/a | - | - | - | - | - | max5982 |
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
@@ -56,22 +56,22 @@
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 16 KimJoowon (joowining) | n/a | - | - | - | - | - | mokiya |
 | 17 LeeJiHye (abcde) | n/a | - | - | - | - | - | mokiya |
-| 18 HaSungMin (abcde) | n/a | - | - | - | - | - | mokiya |
+| 18 HaSungMin (hsm9411) | n/a | - | - | - | - | - | mokiya |
 | 19 YoonSangHoon (topsanghoon) | n/a | - | - | - | - | - | mokiya |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 21 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 22 KimJiHyun (22-Kim-Jihyun) | n/a | - | - | - | - | - | mokiya |
 | 23 JeongEuiHan (eh0203) | n/a | - | - | - | - | - | mokiya |
 | 24 HwangJaeSic (szjsk) | n/a | - | - | - | - | - | mokiya |
-| 25 RimHeeYeon (abcde) | n/a | - | - | - | - | - | mokiya |
-| 26 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 25 ParkChanYoung (C-Y-PARK) | n/a | - | - | - | - | - | mokiya |
+| 26 RimHeeYeon (abcde) | n/a | - | - | - | - | - | mokiya |
 | 27 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 28 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 28 ChoiHyeonWon (CHW) | n/a | - | - | - | - | - | mokiya |
 | 29 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 30 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 31 LeeTaeSang (LTS) | n/a | - | - | - | - | - | mokiya |
 | 32 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 33 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 33 JeongSoRyeong (JEONGSORYEONG) | n/a | - | - | - | - | - | mokiya |
 
 ### Mini Projects
 
