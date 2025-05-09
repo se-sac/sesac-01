@@ -48,11 +48,9 @@
 | 07 KimSeongHyun (mukim-7) | n/a | - | - | - | - | - | max5982 |
 | 08 KimYeJin (KYJ28) | n/a | - | - | - | - | - | max5982 |
 | 09 ShinJiHye (shinjh01) | n/a | - | - | - | - | - | max5982 |
-| 10 HwangUng (hw652) | n/a | - | - | - | - | - | max5982 |
-| 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 12 LeeKyeongJin (abcde) | n/a | - | - | - | - | - | max5982 |
+| 10 HwangUng (abcde) | n/a | - | - | - | - | - | max5982 |
 | 11 KimTaeYoon (ty636336) | n/a | - | - | - | - | - | max5982 |
-| 12 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 12 LeeKyeongJin (kyeongjin3) | n/a | - | - | - | - | - | max5982 |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 14 LeeKeonHee (leekeonhee0928) | n/a | - | - | - | - | - | max5982 |
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
