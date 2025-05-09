@@ -65,7 +65,7 @@
 | 24 HwangJaeSic (szjsk) | n/a | - | - | - | - | - | mokiya |
 | 25 ParkChanYoung (C-Y-PARK) | n/a | - | - | - | - | - | mokiya |
 | 26 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 27 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 27 RimHeeYeon  (abcde) | n/a | - | - | - | - | - | mokiya |
 | 28 ChoiHyeonWon (CHW) | n/a | - | - | - | - | - | mokiya |
 | 29 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 30 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
