@@ -42,7 +42,7 @@
 | 01 NaSungSim (simeeeeee) | n/a | - | - | - | - | - | max5982 |
 | 02 KimDaehun (Kimdeahun0824) | n/a | - | - | - | - | - | max5982 |
 | 03 LeeJooYong (nachalsa) | n/a | - | - | - | - | - | max5982 |
-| 04 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 04 SonHyunUk (HyunUkSon) | n/a | - | - | - | - | - | max5982 |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 07 KimSeongHyun (mukim-7) | n/a | - | - | - | - | - | max5982 |

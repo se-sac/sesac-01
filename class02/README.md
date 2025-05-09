@@ -36,7 +36,7 @@
 | 01 NaSungSim (simeeeeee) | n/a | - | - | - | - | litcoder |
 | 02 KimDaehun (KimDeahun0824) | n/a | - | - | - | - | litcoder |
 | 03 LeeJooYong (nachalsa) | n/a | - | - | - | - | litcoder |
-| 04 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 04 SonHyunUk (HyunUkSon) | n/a | - | - | - | - | litcoder |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 07 KimSeongHyun (mukim-7) | n/a | - | - | - | - | litcoder |
