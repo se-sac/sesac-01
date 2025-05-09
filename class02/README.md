@@ -57,7 +57,7 @@
 | 22 KimJiHyun (22-Kim-Jihyun) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 23 JeongEuiHan (eh0203) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 24 HwangJaeSic (szjsk) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 25 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
+| 25 RimHeeYeon (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 26 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 27 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 28 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
