@@ -50,7 +50,7 @@
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 16 KimJooWon (joowining) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 17 LeeJiHye (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
-| 18 HaSungMin (abcde) | n/a | - | - | - | - | - | mokiya |
+| 18 HaSungMin (hsm9411) | n/a | - | - | - | - | - | mokiya |
 | 19 YoonSangHoon (topsanghoon) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 21 KimYoungHee (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
