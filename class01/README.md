@@ -51,6 +51,8 @@
 | 10 HwangUng (abcde) | n/a | - | - | - | - | - | max5982 |
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 12 LeeKyeongJin (abcde) | n/a | - | - | - | - | - | max5982 |
+| 11 KimTaeYoon (ty636336) | n/a | - | - | - | - | - | max5982 |
+| 12 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 13 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 14 LeeKeonHee (leekeonhee0928) | n/a | - | - | - | - | - | max5982 |
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
@@ -65,12 +67,12 @@
 | 24 HwangJaeSic (szjsk) | n/a | - | - | - | - | - | mokiya |
 | 25 ParkChanYoung (C-Y-PARK) | n/a | - | - | - | - | - | mokiya |
 | 26 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 27 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 27 RimHeeYeon  (abcde) | n/a | - | - | - | - | - | mokiya |
 | 28 ChoiHyeonWon (CHW) | n/a | - | - | - | - | - | mokiya |
 | 29 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 30 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 31 LeeTaeSang (LTS) | n/a | - | - | - | - | - | mokiya |
-| 32 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 32 KimMinKi(minki3131) | n/a | - | - | - | - | - | mokiya |
 | 33 JeongSoRyeong (JEONGSORYEONG) | n/a | - | - | - | - | - | mokiya |
 
 ### Mini Projects
