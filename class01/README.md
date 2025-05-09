@@ -63,7 +63,7 @@
 | 22 KimJiHyun (22-Kim-Jihyun) | n/a | - | - | - | - | - | mokiya |
 | 23 JeongEuiHan (eh0203) | n/a | - | - | - | - | - | mokiya |
 | 24 HwangJaeSic (szjsk) | n/a | - | - | - | - | - | mokiya |
-| 25 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 25 ParkChanYoung (C-Y-PARK) | n/a | - | - | - | - | - | mokiya |
 | 26 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 27 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 28 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
