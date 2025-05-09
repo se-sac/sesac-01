@@ -56,7 +56,7 @@
 | 15 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 16 KimJoowon (joowining) | n/a | - | - | - | - | - | mokiya |
 | 17 LeeJiHye (abcde) | n/a | - | - | - | - | - | mokiya |
-| 18 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 18 HaSungMin (abcde) | n/a | - | - | - | - | - | mokiya |
 | 19 YoonSangHoon (topsanghoon) | n/a | - | - | - | - | - | mokiya |
 | 20 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 21 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
