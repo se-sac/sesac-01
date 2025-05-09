@@ -42,11 +42,11 @@
 | 01 NaSungSim (simeeeeee) | n/a | - | - | - | - | - | max5982 |
 | 02 KimDaehun (Kimdeahun0824) | n/a | - | - | - | - | - | max5982 |
 | 03 LeeJooYong (nachalsa) | n/a | - | - | - | - | - | max5982 |
-| 04 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 04 SonHyunUk (HyunUkSon) | n/a | - | - | - | - | - | max5982 |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
-| 06 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 06 RyuTaekKeun (RTKII) | n/a | - | - | - | - | - | max5982 |
 | 07 KimSeongHyun (mukim-7) | n/a | - | - | - | - | - | max5982 |
-| 08 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 08 KimYeJin (KYJ28) | n/a | - | - | - | - | - | max5982 |
 | 09 ShinJiHye (shinjh01) | n/a | - | - | - | - | - | max5982 |
 | 10 HwangUng (abcde) | n/a | - | - | - | - | - | max5982 |
 | 11 KimTaeYoon (ty636336) | n/a | - | - | - | - | - | max5982 |
@@ -68,7 +68,7 @@
 | 27 RimHeeYeon  (abcde) | n/a | - | - | - | - | - | mokiya |
 | 28 ChoiHyeonWon (CHW) | n/a | - | - | - | - | - | mokiya |
 | 29 KimMinSung (abcde) | n/a | - | - | - | - | - | mokiya |
-| 30 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 30 KimJiSeon (rlawltjs) | n/a | - | - | - | - | - | mokiya |
 | 31 LeeTaeSang (LTS) | n/a | - | - | - | - | - | mokiya |
 | 32 KimMinKi(minki3131) | n/a | - | - | - | - | - | mokiya |
 | 33 JeongSoRyeong (JEONGSORYEONG) | n/a | - | - | - | - | - | mokiya |
