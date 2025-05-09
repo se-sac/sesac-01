@@ -70,7 +70,7 @@
 | 29 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 30 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
 | 31 LeeTaeSang (LTS) | n/a | - | - | - | - | - | mokiya |
-| 32 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
+| 32 KimJiSeon (rlawltjs) | n/a | - | - | - | - | - | mokiya |
 | 33 JeongSoRyeong (JEONGSORYEONG) | n/a | - | - | - | - | - | mokiya |
 
 ### Mini Projects
