@@ -46,7 +46,7 @@
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 06 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
 | 07 KimSeongHyun (mukim-7) | n/a | - | - | - | - | - | max5982 |
-| 08 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
+| 08 KimYeJin (KYJ28) | n/a | - | - | - | - | - | max5982 |
 | 09 ShinJiHye (shinjh01) | n/a | - | - | - | - | - | max5982 |
 | 10 HwangUng (abcde) | n/a | - | - | - | - | - | max5982 |
 | 11 KimYoungHee (abcde) | n/a | - | - | - | - | - | max5982 |
