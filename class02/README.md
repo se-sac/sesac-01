@@ -38,7 +38,7 @@
 | 03 LeeJooYong (nachalsa) | n/a | - | - | - | - | litcoder |
 | 04 SonHyunUk (HyunUkSon) | n/a | - | - | - | - | litcoder |
 | 05 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
-| 06 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 06 RyuTaekKeun (RTKII) | n/a | - | - | - | - | litcoder |
 | 07 KimSeongHyun (mukim-7) | n/a | - | - | - | - | litcoder |
 | 08 KimYeJin (KYJ28) | n/a | - | - | - | - | litcoder |
 | 09 ShinJiHye (shinjh01) | n/a | - | - | - | - | litcoder |
