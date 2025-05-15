@@ -47,7 +47,7 @@
 | 12 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
 | 13 SungSebin (Sebin7) | n/a | - | - | - | - | litcoder |
 | 14 LeeKeonHee (leekeonhee0928) | n/a | - | - | - | - | litcoder |
-| 15 KimYoungHee (abcde) | n/a | - | - | - | - | litcoder |
+| 15 HwangSanHa (hwangsanha7) | n/a | - | - | - | - | litcoder |
 | 16 KimJooWon (joowining) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 17 LeeJiHye (abcde) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 18 HaSungMin (hsm9411) | n/a | - | - | - | - | - | mokiya |
