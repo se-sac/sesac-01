@@ -1,0 +1,48 @@
+# Python 캐시
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebook 체크포인트 (혹시 쓰신다면)
+.ipynb_checkpoints/
+
+# 모델 파일 및 학습 결과
+*.h5
+*.keras
+*.pb
+*.tflite
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.joblib
+*.pkl
+*.sav
+
+# 훈련 로그 / 그래프
+*.log
+*.out
+*.png
+*.jpg
+*.jpeg
+*.npy
+*.npz
+
+# 환경 설정 파일
+.env
+*.env
+
+# VSCode, PyCharm 등 IDE 설정
+.vscode/
+.idea/
+
+# 가상 환경 (로컬에 만들었을 경우)
+venv/
+.venv/
+
+# 기타 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 사용자 실습용 결과 디렉토리
+history_flower/
