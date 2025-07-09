@@ -1,0 +1,13 @@
+train: /home/hsm/python_ai/intro/02_CNN/yolov5/train/images
+val: /home/hsm/python_ai/intro/02_CNN/yolov5/valid/images
+test: /home/hsm/python_ai/intro/02_CNN/yolov5/test/images
+
+nc: 2
+names: ['cat', 'dog']
+
+roboflow:
+  workspace: brad-dwyer
+  project: oxford-pets
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/brad-dwyer/oxford-pets/dataset/2
