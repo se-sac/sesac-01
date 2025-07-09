@@ -1,0 +1,108 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+*.egg
+*.egg-info/
+dist/
+build/
+
+# === Virtual environment ===
+.venv/
+venv/
+ENV/
+env/
+
+# === Jupyter Notebook Checkpoints ===
+.ipynb_checkpoints/
+
+# === OS & Editor Files ===
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# === Logs ===
+*.log
+logs/
+*.out
+
+# === Model files ===
+*.h5
+*.keras
+*.hdf5
+*.ckpt
+*.pb
+*.tflite
+*.pt
+*.pth
+*.onnx
+*.joblib
+*.pkl
+*.sav
+
+# === Training artifacts ===
+checkpoints/
+runs/
+results/
+output/
+saved_models/
+models/
+
+# === Dataset files ===
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.npz
+*.npy
+*.csv
+*.tsv
+*.json
+*.xml
+*.db
+*.sqlite3
+*.mdb
+*.xlsx
+*.xls
+
+# === Images, Augmented data, etc. ===
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.gif
+*.webp
+*.mp4
+*.avi
+*.mov
+*.wav
+*.mp3
+
+# === TensorBoard ===
+events.out.tfevents.*
+
+# === PyTorch Lightning / MLFlow / Weights & Biases / TensorBoard ===
+lightning_logs/
+mlruns/
+wandb/
+
+# === Docker ===
+*.container
+*.pid
+*.log
+docker-compose.override.yml
+
+# === Backup ===
+*.bak
+*.tmp
+*.temp
+~$*
+
+# === Git ===
+!.gitignore
