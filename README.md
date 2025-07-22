@@ -72,16 +72,14 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ### 제출현황
 
-### Team: 뭔가 센스있는 팀명
-<프로젝트 요약>
+### Team: 커넥션
+* 차량 탑재 YOLO와 RNN 기반의 노면이상탐지시스템을 통해 결빙, 젖은 노면, crack 등의 실시간 감지 및 V2X 통신 기반 차량 간 정보공유를 통한 공공데이터 구축을 최종 목표로 한다.
 * Members
   | Name | Role |
   |----|----|
-  | 채치수 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-  | 송태섭 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-  | 정대만 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
-  | 채소연 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-  | 권준호 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
-* Project Github : https://github.com/goodsense/project_awesome.git
-* 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+  | 성세빈 | Project lead, 프로젝트를 총괄 및 기획  |
+  | 김예진 | Vision AI Engineer — 모델 학습 및 추론, 노면 탐지 알고리즘 구현  |
+  | 정소령 | Data & Evaluation — 데이터셋 구축, 전처리 및 성능 평가 담당  |
+* Project Github : https://github.com/SeBin7/Road_Vision.git
+* 발표자료 : https://github.com/SeBin7/Road_Vision/doc/RoadVision.ppt
 
