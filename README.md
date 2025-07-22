@@ -66,16 +66,21 @@ $ find ./ -iname *.bin|xargs ls -l
 
 ### 제출현황
 
-### Team: 뭔가 센스있는 팀명
-<프로젝트 요약>
-* Members
-  | Name | Role |
-  |----|----|
-  | 채치수 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-  | 송태섭 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-  | 정대만 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
-  | 채소연 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-  | 권준호 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
-* Project Github : https://github.com/goodsense/project_awesome.git
-* 발표자료 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+### Team: 머지?해요
 
+**< Summary >**
+> 🚀 **M.A.R.S. (Make Agent Really Sexy)**
+> 😎 **Fun하고 Cool하고 Sexy한 Multi-Agent System**
+
+사용자의 요청을 기반으로, 그와 걸맞은 다양한 역할의 AI 에이전트 / 챗봇을 자동으로 양성하는 에이전트 / 챗봇 프로젝트입니다. 
+
+**Members**
+| 이름 | 역할 | 설명 | 
+| - | - | - |
+| 🔥 이주용 | Project Manager | 경애하고 친애하는 위대한 령도자 이주용동지 |
+| 🛠️ 김지선 | Developer | "망치와 모루" 전술의 "망치와 모루" 담당 |
+| 🐾 김지현 | Archiver & Speaker | PAGA(빠가): 프로젝트를 기록으로 다시 위대하게 |
+| 🏹 김태윤 | QA Tester | 망하면 한양도성박물관 20바퀴 완주 예정 |
+| 🕸️ 정의한 | UI Designer | 다정한 웹 · 앱 개발자 Spiderman |
+* 프로젝트 링크: https://github.com/SeSac01/MARS.git
+* 발표 자료: https://github.com/SeSac01/MARS/doc/slide.ppt
