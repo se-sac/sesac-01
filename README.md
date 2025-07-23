@@ -85,20 +85,19 @@ $ find ./ -iname *.bin|xargs ls -l
 * 프로젝트 링크: https://github.com/SeSac01/MARS.git
 * 발표 자료: https://github.com/SeSac01/MARS/doc/slide.ppt
 
-### Team: 그머말
+### Team: 그머말(그게 머선 말이야)
 
-<프로젝트 요약>
-* 수화물 낙하 및 이동 사고 예방 시스템
-* 스마트 적재 가이드 시스템: Vision AI와 센서 융합으로 짐의 무게 배분 및 이동 모니터링 시스템
-* 단순 모니터링을 넘어 사고를 사전 예방하며 안전한 운전 경험을 제공
+**< Summary >**
+> 🤖 **Park Intel Sentinel**
+> 🚘 **자동 주차장 감시 경비봇 시스템**
 
 **Members**
   | Name | Role |
   |----|----|
-  | 이건희 | Project lead, 프로젝트 기획 및 Back-end 구현 |
-  | 나성심 | Project manager, Back-end 구현 및 시스템 아키텍처 설계 |
-  | 신지혜 | UI design, 사용자 인터페이스를 정의 및 구현, Unity 활용한 Front-end 구현 |
-  | 하성민 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-  | 최현원 | Architect, 사용자 인터페이스 정의 및 CMS 구현. |
-* Project Github : https://github.com/simeeeeee/Intelligence-Cargo-System
-* 발표자료 : https://github.com/simeeeeee/Intelligence-Cargo-System/doc/slide.ppt
+  | 🐹 이건희 | Project lead, 프로젝트 기획 및 Back-end 구현 |
+  | 🐑 나성심 | Project manager, Back-end 구현 및 시스템 아키텍처 설계 |
+  | 🦤 신지혜 | UI design, 사용자 인터페이스를 정의 및 구현, Unity 활용한 Front-end 구현 |
+  | 🐨 하성민 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
+  | 🐻 최현원 | Architect, 사용자 인터페이스 정의 및 CMS 구현. |
+* Project Github : https://github.com/simeeeeee/park-intel-sentinel
+* 발표자료 : https://github.com/simeeeeee/park-intel-sentinel/doc/slide.ppt
