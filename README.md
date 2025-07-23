@@ -102,3 +102,20 @@ $ find ./ -iname *.bin|xargs ls -l
   | 최현원 | Architect, 사용자 인터페이스 정의 및 CMS 구현. |
 * Project Github : https://github.com/simeeeeee/Intelligence-Cargo-System
 * 발표자료 : https://github.com/simeeeeee/Intelligence-Cargo-System/doc/slide.ppt
+
+
+### Team: AIinSai
+
+<프로젝트 요약>
+* LLM을 활용한 Dungeon and Dragon 장르의 TRPG게임 
+* LLM의 생성한 문장을 바탕으로 몰입감 있는 게임 경험 제공 
+* Langchain, Langgraph를 활용하여 LLM이 개연성을 유지할 수 있도록 유도 
+
+**Members**
+| Name | Role | 
+| ---- | ---- |
+| 김주원 | Project lead, Main Developer | 
+| 박찬영 | 기획자, Sub Developer | 
+
+* Project Github : https://github.com/joowining/LLM_D-D
+* 발표 자료 : https://github.com/joowining/LLM_D-D
