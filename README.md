@@ -117,3 +117,21 @@ $ find ./ -iname *.bin|xargs ls -l
 
 * Project Github : https://github.com/joowining/LLM_D-D
 * 발표 자료 : https://github.com/joowining/LLM_D-D
+
+### Team: Connection
+
+
+ **프로젝트명: Road Vision**
+
+> 이 프로젝트는 CNN(합성곱 신경망), GRU(게이트 순환 유닛), MLP(다층 퍼셉트론)을 결합한 딥러닝 아키텍처를 임베디드 환경에서 활용하여 도로 노면 상태(정상, 젖음, 빙판, 파손) 실시간 감지를 통해 데이터 공유·알림 시스템을 구현하는 것이 목표입니다.
+
+
+**Members**
+  | Name | Role |
+  |----|----|
+  | 성세빈 | Project lead, 프로젝트 전체 기획,  데이터 전처리 및 분류 알고리즘 개발 담당 |
+  | 김예진 | Project manager, 문서화 및 커뮤니케이션 총괄, 딥러닝 모델 구조 설계 및 학습 |
+  | 정소령 | System Architect, 모델 아키텍처 설계, 임베디드 시스템 구조 및 통신 구성 담당 |
+
+* Project Github : https://github.com/SeBin7/Road_Vision
+* 발표자료 : https://github.com/SeBin7/Road_Vision/blob/main/doc/Road_Vision.pptx
