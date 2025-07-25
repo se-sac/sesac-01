@@ -69,21 +69,21 @@ $ find ./ -iname *.bin|xargs ls -l
 ### Team: 머지?해요
 
 **< Summary >**
-> 🚀 **M.A.R.S. (Make Agent Really Sexy)**
-> 😎 **Fun하고 Cool하고 Sexy한 Multi-Agent System**
+> 🚀 **MOSU (Our Mogukeo Is Suhwa)**
+> 😎 **위대한 령도자 이주용 동지의 혁명적인 손말통역기**
 
-사용자의 요청을 기반으로, 그와 걸맞은 다양한 역할의 AI 에이전트 / 챗봇을 자동으로 양성하는 에이전트 / 챗봇 프로젝트입니다. 
+사용자의 모국어 손동작을 한국어로 통역해주는 프로젝트입니다. 
 
 **Members**
 | 이름 | 역할 | 설명 | 
 | - | - | - |
-| 🔥 이주용 | Project Manager | 경애하고 친애하는 위대한 령도자 이주용동지 |
+| 🔥 이주용 | Project Manager | 경애하고 친애하는 위대한 령도자 이주용 동지 |
 | 🛠️ 김지선 | Developer | "망치와 모루" 전술의 "망치와 모루" 담당 |
 | 🐾 김지현 | Archiver & Speaker | PAGA(빠가): 프로젝트를 기록으로 다시 위대하게 |
 | 🏹 김태윤 | QA Tester | 망하면 한양도성박물관 20바퀴 완주 예정 |
 | 🕸️ 정의한 | UI Designer | 다정한 웹 · 앱 개발자 Spiderman |
-* 프로젝트 링크: https://github.com/SeSac01/MARS.git
-* 발표 자료: https://github.com/SeSac01/MARS/doc/slide.ppt
+* 프로젝트 링크: https://github.com/SeSac01/mosu.git
+* 발표 자료: https://github.com/SeSac01/mosu/doc/slide.ppt
 
 ### Team: 그머말(그게 머선 말이야)
 
