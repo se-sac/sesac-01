@@ -1,3 +1,7 @@
+# ARDUINO ch340 USB Driver Setup
+https://sparks.gogo.co.nz/ch340.html?srsltid=AfmBOopz7nFoftYVQdr8CJw8PjeW2NSdrXraXIU0Uaw-e6JdLWOkrN6S
+
+
 # Class 02
 
 * AI를 활용한 Smart Factory 개발 실습
