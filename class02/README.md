@@ -59,7 +59,7 @@
 | 24 HwangJaeSic (szjsk) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 25 ParkChanYoung (C-Y-PARK) | n/a | - | - | - | - | jerry-jaeseong-lee |
 | 26 KimYoungHee (abcde) | n/a | - | - | - | - | - | mokiya |
-| 27 RimHeeYeon (abcde) | n/a | - | - | - | - | - | mokiya |
+| 27 RimHeeYeon (heeyeon518) | n/a | - | - | - | - | - | mokiya |
 | 28 ChoiHyeonWon  (CHW) | n/a | - | - | - | - | - | mokiya |
 | 29 KimMinSung (abcde) | n/a | - | - | - | - | - | mokiya |
 | 30 KimJiSeon (rlawltjs) | n/a | - | - | - | - | - | mokiya |
